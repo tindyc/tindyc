@@ -28,6 +28,15 @@
 
 ---
 
+### 💻 What I Work On :
+I work across **Linux-based systems**, legacy applications, and modern web stacks — from optimising **C/SQL code** in enterprise databases to building features with **Python, JavaScript, and React**.  
+My day-to-day often includes automating processes with **Bash/Shell scripts**, tuning databases for performance, and developing new tools that make systems more reliable and easier to maintain.
+
+I’m always learning — picking up new technologies, frameworks, and approaches to fit each project’s needs. Whether it’s diving into a legacy codebase or experimenting with the latest tools, I believe in never standing still. There’s always a better, cleaner, or smarter way to solve a problem, and I’m always on the lookout for it.
+
+---
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
