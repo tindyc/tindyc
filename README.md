@@ -1,31 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tindychan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="center">
+  <img src="/banner.png" alt="Banner" />
+</p>
 
   ---
 
 ### :woman_technologist: About Me :
   Passionate Coder and chinchilla mum! When I'm not coding, you'll find me training Brazilian jujitsu or skydiving - I love a good sweat and adrenaline rush! Always on the lookout for exciting new programming projects!
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tindychan/)
-
+  
 ---
 
 ### 💻 What I Work On :
@@ -60,4 +41,20 @@ I’m always learning — picking up new technologies, frameworks, and approache
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tindyc&theme=dracula&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tindyc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tindychan/" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact Me on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  I'm always open to connecting with other developers, collaborating on projects, or just talking tech!  
+  Click the button above to reach me directly on LinkedIn.
+</p>
+
 
