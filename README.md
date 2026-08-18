@@ -5,15 +5,19 @@
   ---
 
 ### :woman_technologist: About Me :
-  Passionate Coder and chinchilla mum! When I'm not coding, you'll find me training Brazilian jujitsu or skydiving - I love a good sweat and adrenaline rush! Always on the lookout for exciting new programming projects!
+Software developer, lifelong learner and proud cat mum. When I'm not coding, you'll usually find me training Brazilian Jiu-Jitsu or training my cats. They haven't learned to code yet, but they do know plenty of tricks and even use speaking buttons to communicate. 🐱💬
+
+I'm especially interested in using technology to help people in practical ways. I'd love to support elderly people in becoming more confident online, staying connected with family and friends, and navigating the digital world more independently.
+
+I'm always open to volunteering opportunities, community projects and collaborations, particularly where technology can make a positive difference!!
   
 ---
 
 ### 💻 What I Work On :
-I work across **Linux-based systems**, legacy applications, and modern web stacks — from optimising **C/SQL code** in enterprise databases to building features with **Python, JavaScript, and React**.  
+I work across **Linux-based systems**, legacy applications, and modern web stacks, from optimising **C/SQL code** in enterprise databases to building features with **Python, JavaScript, and React**.  
 My day-to-day often includes automating processes with **Bash/Shell scripts**, tuning databases for performance, and developing new tools that make systems more reliable and easier to maintain.
 
-I’m always learning — picking up new technologies, frameworks, and approaches to fit each project’s needs. Whether it’s diving into a legacy codebase or experimenting with the latest tools, I believe in never standing still. There’s always a better, cleaner, or smarter way to solve a problem, and I’m always on the lookout for it.
+I’m always learning, picking up new technologies, frameworks, and approaches to fit each project’s needs. Whether it’s diving into a legacy codebase or experimenting with the latest tools, I believe in never standing still. There’s always a better, cleaner, or smarter way to solve a problem, and I’m always on the lookout for it.
 
 ---
 
